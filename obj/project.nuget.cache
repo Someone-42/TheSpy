@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWUnuqSAVrIzKspAkbXYqL1Q2W5d9FVaa855isBLceOKmi6X6QXKvsZOzJns7apPr+oY9ZZl1wtGfx/dQ6i07g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trist\\OneDrive\\Documents\\Programs VS\\TheSpy\\TheSpy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trist\\.nuget\\packages\\nothenderenderengine\\1.0.0\\nothenderenderengine.1.0.0.nupkg.sha512",
+    "C:\\Users\\trist\\.nuget\\packages\\pastel\\2.1.0\\pastel.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
