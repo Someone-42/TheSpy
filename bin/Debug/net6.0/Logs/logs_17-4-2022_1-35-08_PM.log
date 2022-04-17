@@ -20,3 +20,7 @@
 [DGE-CC] {17/4/2022 1:35:14 PM} [Info]: Loaded assembly DGE Modules :
  - [DGE-Framework 0.2.16.0]
  - [TheSpy 0.0.0.0]
+[DGE] {17/4/2022 1:39:09 PM} [Info]: [User]: "exit"
+[DGE] {17/4/2022 1:39:09 PM} [Info]: Stopping DGE Main
+[DGE] {17/4/2022 1:39:09 PM} [Info]: Disposed of 0 applications
+[DGE] {17/4/2022 1:39:09 PM} [Info]: Stopped DGE Main
