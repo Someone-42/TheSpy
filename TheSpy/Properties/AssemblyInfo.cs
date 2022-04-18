@@ -2,18 +2,15 @@
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 
-using DGE;
-using DGE.Core;
-
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("TheSpy")]
-[assembly: AssemblyDescription("A software that keeps track of user inputs")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("None")]
-[assembly: AssemblyProduct(AssemblySpy.NAME)]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("TheSpy")]
+[assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -23,7 +20,7 @@ using DGE.Core;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("03df22e9-6948-4707-aa69-870552d05172")]
+[assembly: Guid("3edc1d79-8586-4798-8b0b-24e484038d09")]
 
 // Version information for an assembly consists of the following four values:
 //
@@ -35,5 +32,5 @@ using DGE.Core;
 // You can specify all the values or you can default the Build and Revision Numbers
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion(AssemblySpy.VERSION)]
-[assembly: AssemblyFileVersion(AssemblySpy.VERSION)] 
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
